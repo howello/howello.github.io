@@ -17,14 +17,13 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: true
-# weibo_username:     howello
-#zhihu_username: howello
+RSS: false
+weibo_username: howello
+zhihu_username: howello
 github_username: howello
-#facebook_username: howello
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
-
+facebook_username: howello
+jianshu_username:   e71990ada2fd
+twitter_username:   qiubaiying
 
 
 
